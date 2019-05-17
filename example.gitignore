@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except the Avada child theme
+!wp-content/themes/Avada-Child-Theme
+
+# And any plugin that you're working on
+# !wp-content/plugins/my-plugin-dir
